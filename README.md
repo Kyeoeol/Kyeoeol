@@ -28,6 +28,7 @@ import Foundation
 ```swift
 import SwiftUI
 ```
+- <a href="https://github.com/Kyeoeol/swiftui_asyncImage">AsyncImage</a>
 - <a href="https://github.com/Kyeoeol/swiftui_preferenceKey">PreferenceKey</a>
 - <a href="https://github.com/Kyeoeol/swiftui_textfield">TextField</a>
 
