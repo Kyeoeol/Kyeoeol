@@ -1,4 +1,4 @@
-## 👋 [welcome]: Hello, Playground!
+### 👋 [welcome]: Hello, Playground!
 
 <!--
 ### Hi there 👋
@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+<br>
 
 ```swift
 import Foundation
 ```
-- 
 
 <br>
 
