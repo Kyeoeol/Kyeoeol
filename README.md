@@ -37,6 +37,6 @@ import SwiftUI
 ```swift
 import XCTest
 ```
-- <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Simple Example</a>
+- <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
 
 ---
