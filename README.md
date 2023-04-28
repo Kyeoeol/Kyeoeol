@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ```swift
 import Foundation
 ```
-- <a href="https://github.com/Kyeoeol/swift-clipboard-protection">Clipboard Protection</a>
+- <a href="https://github.com/Kyeoeol/swift-pastboard-protection">Pastboard Protection</a>
 - <a href="https://github.com/Kyeoeol/swift-error-pattern-matching">Error Pattern Matching</a>
 
 <br>
