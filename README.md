@@ -28,15 +28,15 @@ import Foundation
 ```swift
 import SwiftUI
 ```
-- <a href="https://github.com/Kyeoeol/swiftui_asyncImage">AsyncImage</a>
-- <a href="https://github.com/Kyeoeol/swiftui_preferenceKey">PreferenceKey</a>
-- <a href="https://github.com/Kyeoeol/swiftui_textField">TextField</a>
+- <a href="https://github.com/Kyeoeol/swiftui-async-image">AsyncImage</a>
+- <a href="https://github.com/Kyeoeol/swiftui-preferencekey">PreferenceKey</a>
+- <a href="https://github.com/Kyeoeol/swiftui-textfield">TextField</a>
 
 <br>
 
 ```swift
 import XCTest
 ```
-- <a href="https://github.com/Kyeoeol/unit_test_example">Unit Test Simple Example</a>
+- <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Simple Example</a>
 
 ---
