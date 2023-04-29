@@ -41,3 +41,10 @@ import SwiftUI
 import XCTest
 ```
 - <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
+
+---
+
+```swift
+import Projects
+```
+- <a href="https://github.com/Kyeoeol/ocr-credit-card">Credit Card OCR</a>
