@@ -47,4 +47,4 @@ import XCTest
 ```swift
 import Projects
 ```
-- <a href="https://github.com/Kyeoeol/ocr-credit-card">Credit Card OCR</a>
+- <a href="https://github.com/Kyeoeol/ocr-credit-card">OCR: Credit Card</a>
