@@ -42,12 +42,16 @@ import XCTest
 ```
 - <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
 
+<br>
+
 ---
 
 ```swift
 import Projects
 ```
 - <a href="https://github.com/Kyeoeol/ocr-credit-card">OCR: Credit Card</a>
+
+<br>
 
 ---
 
