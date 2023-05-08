@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 ```swift
-import Foundation
+import Swift
 ```
 - <a href="https://github.com/Kyeoeol/swift-error-pattern-matching">Error Pattern Matching</a>
 - <a href="https://github.com/Kyeoeol/swift-pastboard-protection">Pastboard Protection</a>
