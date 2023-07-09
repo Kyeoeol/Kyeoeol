@@ -20,19 +20,9 @@ Here are some ideas to get you started:
 <br>
 
 ```swift
-import Swift
-```
-- <a href="https://github.com/Kyeoeol/swift-error-pattern-matching">Error Pattern Matching</a>
-- <a href="https://github.com/Kyeoeol/swift-pastboard-protection">Pastboard Protection</a>
-
-<br>
-
-```swift
 import XCTest
 ```
 - <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
-
-<br>
 
 ---
 
@@ -40,8 +30,6 @@ import XCTest
 import Projects
 ```
 - <a href="https://github.com/Kyeoeol/ocr-credit-card">OCR: Credit Card</a>
-
-<br>
 
 ---
 
