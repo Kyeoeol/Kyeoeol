@@ -37,13 +37,6 @@ import SwiftUI
 <br>
 
 ```swift
-import Combine
-```
-- <a href="https://github.com/Kyeoeol/swift-combine/blob/main/README.md">Basic: Combine A to Z</a>
-
-<br>
-
-```swift
 import XCTest
 ```
 - <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
