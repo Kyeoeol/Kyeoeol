@@ -28,14 +28,6 @@ import Swift
 <br>
 
 ```swift
-import SwiftUI
-```
-- <a href="https://github.com/Kyeoeol/swiftui-preferencekey">PreferenceKey</a>
-- <a href="https://github.com/Kyeoeol/swiftui-textfield">TextField</a>
-
-<br>
-
-```swift
 import XCTest
 ```
 - <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
