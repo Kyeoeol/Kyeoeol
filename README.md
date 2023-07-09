@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <br>
 
 ```swift
-import XCTest
+import Contents
 ```
-- <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
+- <a href="https://github.com/Kyeoeol/contents-AVCaptureSession">How AVCaptureSession Works</a>
 
 ---
 
@@ -34,6 +34,6 @@ import Projects
 ---
 
 ```swift
-import Contents
+import XCTest
 ```
-- <a href="https://github.com/Kyeoeol/contents-AVCaptureSession">How AVCaptureSession Works</a>
+- <a href="https://github.com/Kyeoeol/example-unit-tests">Unit Test Example</a>
