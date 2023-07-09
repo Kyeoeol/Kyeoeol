@@ -30,7 +30,6 @@ import Swift
 ```swift
 import SwiftUI
 ```
-- <a href="https://github.com/Kyeoeol/swiftui-async-image">AsyncImage</a>
 - <a href="https://github.com/Kyeoeol/swiftui-preferencekey">PreferenceKey</a>
 - <a href="https://github.com/Kyeoeol/swiftui-textfield">TextField</a>
 
